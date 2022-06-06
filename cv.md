@@ -2,10 +2,10 @@
 
 # My Contact Information:
 
-**Phone** +7909 622-25-43
-**E-mail** [ant2783@gmail.com](ant2783@gmail.com)
-**GitHub** [KuzAnton8335](https://github.com/KuzAnton8335)
-**Telegram** [Anton Kuznecov] (https://t.me/Anton070183)
+- **Phone** +7909 622-25-43
+- **E-mail** [ant2783@gmail.com](ant2783@gmail.com)
+- **GitHub** [KuzAnton8335](https://github.com/KuzAnton8335)
+- **Telegram** [Anton Kuznecov] (https://t.me/Anton070183)
 
 # About Me
 
